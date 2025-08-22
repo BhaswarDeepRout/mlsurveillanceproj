@@ -3,21 +3,21 @@ It detects people in the Region of Interest (ROI), tracks violations when more t
 
 Features:-
 
->Real-time person detection using YOLOv8
->Violation monitoring when persons > 5 in ROI
->Tkinter-based HMI for local monitoring & image upload
->Flask web app to view stored violation images from the database
->SQLite database integration for storing violation logs and snapshots
->Custom YOLO training support for conveyor-specific dataset
+>Real-time person detection using YOLOv8;
+>Violation monitoring when persons > 5 in ROI;
+>Tkinter-based HMI for local monitoring & image upload;
+>Flask web app to view stored violation images from the database;
+>SQLite database integration for storing violation logs and snapshots;
+>Custom YOLO training support for conveyor-specific dataset;
 
 Tech Stack:-
 
-Machine Learning: YOLOv8 (Ultralytics)
->Database: SQLite
->Frontend (Local): Tkinter HMI
->Frontend (Web): Flask + HTML/CSS
->Backend: Python
->Image Processing: OpenCV
+>Machine Learning: YOLOv8 (Ultralytics);
+>Database: SQLite;
+>Frontend (Local): Tkinter HMI;
+>Frontend (Web): Flask + HTML/CSS;
+>Backend: Python;
+>Image Processing: OpenCV;
 
 Installation:-
 
