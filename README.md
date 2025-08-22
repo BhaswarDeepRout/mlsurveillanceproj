@@ -3,7 +3,7 @@ It detects people in the Region of Interest (ROI), tracks violations when more t
 
 Features:-
 
-Real-time person detection using YOLOv8
+>Real-time person detection using YOLOv8
 >Violation monitoring when persons > 5 in ROI
 >Tkinter-based HMI for local monitoring & image upload
 >Flask web app to view stored violation images from the database
