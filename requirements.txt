@@ -1,0 +1,9 @@
+ultralytics==8.2.50
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+flask==3.0.3
+flask-cors==5.0.0
+sqlalchemy==2.0.32
+pillow==10.4.0
+numpy==1.26.4
+tk==0.1.0
