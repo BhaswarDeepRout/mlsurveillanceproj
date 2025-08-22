@@ -23,7 +23,6 @@ Installation:-
 
 Clone the repository:
   >git clone https://github.com/BhaswarDeepRout/mlsurveillanceproj.git
-  >cd mlsurveillanceproj
 
 Install dependencies:
   >pip install -r requirements.txt
